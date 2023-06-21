@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875088066590",
+    "project_id": "weblogy-forum",
+    "storage_bucket": "weblogy-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875088066590:android:c98f06328f6c60d07cd60f",
+        "android_client_info": {
+          "package_name": "com.weblogy.forum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875088066590-d6rghnnb96serpgn3h25ie5gsjobs8cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAeql7nJdzJE6KSygPsrSgh5q0txnYdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875088066590-d6rghnnb96serpgn3h25ie5gsjobs8cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

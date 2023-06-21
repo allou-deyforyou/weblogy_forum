@@ -1,0 +1,43 @@
+name: forum
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Assets
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons:
+  equatable:
+  go_router:
+  jiffy:
+  intl:
+
+  # Widget
+  listenable_tools:
+  sliver_tools:
+  widget_tools:
+
+  # Service
+  service_tools:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  generate: true
